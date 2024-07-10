@@ -1,7 +1,7 @@
 ---
 layout: page
 rss_ignore: true
-title: About
+title: The Vanilla Experience's gallery
 menu:
   main:
     weight: 90
