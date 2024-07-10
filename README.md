@@ -9,7 +9,6 @@ resources:
   - src: cat-2.jpg
     title: Selective focus photography of orange and white cat on brown table
 ---
-```
 
 <img src="banda.jpeg" id="target">
 <script>
