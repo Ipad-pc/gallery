@@ -10,7 +10,7 @@ resources:
     title: Selective focus photography of orange and white cat on brown table
 ---
 
-<img src="banda.jpeg" id="target">
+<img src="/banda.jpeg" id="target">
 <script>
 new Darkroom('#target', {
   // Canvas initialization size
